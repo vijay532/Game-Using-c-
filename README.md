@@ -20,4 +20,4 @@ with the help of map
 
 #K Unique substring
 
-with the help sliding window method this is be solved 
+with the help sliding window method this is be solved and will remove from left  
