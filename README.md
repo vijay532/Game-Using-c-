@@ -17,3 +17,7 @@ with the help of sort and reverse function it can be possible
 
 with the help of map 
 
+
+#K Unique substring
+
+with the help sliding window method this is be solved 
