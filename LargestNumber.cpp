@@ -2,7 +2,7 @@
 #define ll long long  
 using namespace std;
 /*
-[3, 30, 34, 5, 9]
+3, 30, 34, 5, 9
 9543330
 */
 int main() 
