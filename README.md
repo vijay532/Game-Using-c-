@@ -2,12 +2,12 @@
 
 With the help of if else statement logic becomes simple 
 
-##Link Example
+## Link Example
 [Run](https://www.onlinegdb.com/online_c++_compiler#)
 
 #Name Pattern  
 
-naming should be in the rectangular grid 
+naming should be in the rectangular grid    
 
 #Largest number in the form of string 
 
