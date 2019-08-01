@@ -1,8 +1,8 @@
-## ROCK PAPER SCISSOR
+## ROCK PAPER SCISSOR GAME 
 
 * With the help of if else statement logic becomes simple 
 
-### Link Example
+#### Link Example
 [Run](https://www.onlinegdb.com/online_c++_compiler#)
 
 ## Name Pattern  
