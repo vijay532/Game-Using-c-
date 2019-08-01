@@ -1,20 +1,20 @@
-# ROCK PAPER SCISSOR
+## ROCK PAPER SCISSOR
 
 * With the help of if else statement logic becomes simple 
 
 ## Link Example
 [Run](https://www.onlinegdb.com/online_c++_compiler#)
 
-# Name Pattern  
+## Name Pattern  
 
 * Naming should be in the rectangular grid    
 
-# Largest number in the form of string 
+## Largest number in the form of string 
 
 * With the help of sort and reverse function it can be possible
 
 
-# No Repetition using one loop
+## No Repetition using one loop
 
 * With the help of map 
 
