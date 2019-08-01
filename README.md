@@ -3,7 +3,7 @@
 * With the help of if else statement logic becomes simple 
 
 #### Link Example
-[Run](https://www.onlinegdb.com/online_c++_compiler#)
+[Run](https://repl.it/@VijaySahani/FrighteningSugaryModule)
 
 ## Name Pattern  
 
